@@ -6,7 +6,7 @@ var numberTest = 500;
 if (numberTest<10){
 	console.log("Dude, your variable is less than 10");
 } else{
-	console.log("Dude, you variable is " + numberTest + " and that shit is less than 10");
+	console.log("Dude, you variable is " + numberTest + " and that shit is more than 10");
 }
 
 //-------------- Function that takes a name as an argument ---------------\\
